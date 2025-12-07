@@ -1,5 +1,8 @@
-# 💫 About Me:
-I’m currently working on building full-stack applications using React, Node.js, Express, and MongoDB, focusing on secure authentication, interactive dashboards, and automation workflows. I’m open to collaborating on full-stack web apps, student-oriented tools, and AI/ML mini-projects such as recommendation engines, sentiment analysis, and prediction models, as well as contributing to open-source backend tools. I’m currently exploring advanced backend architecture, scalable API design, UI/UX enhancements with React and Tailwind, and techniques for improving data processing and machine learning model performance. My learning path includes advanced JavaScript concepts, backend engineering patterns, reusable React components, database optimization in MongoDB and SQL, and ML model evaluation and deployment. Feel free to ask me about full-stack development workflows, authentication systems using JWT and Nodemailer, or AI/ML project development. Fun fact: I often start projects just to learn something new, and end up turning them into complete products.
+#  About Me:
+Information Science and Engineering student skilled in building practical tech solutions across full-stack 
+development and machine learning. Experienced in solving complex problems, working collaboratively, and 
+delivering high-quality academic projects. Looking to apply technical skills, learn fast, and contribute meaningfully 
+to real-world software development teams.
 
 
 ## 🌐 Socials:
